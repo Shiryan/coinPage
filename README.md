@@ -1,4 +1,4 @@
-# hello
+# coinPage
 
 ## Project setup
 ```
