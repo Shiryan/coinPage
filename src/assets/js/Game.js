@@ -37,7 +37,7 @@ export default class Game {
 
     initStage() {
         this.stage = new Hilo.Stage({
-            renderType: 'dom',
+            renderType: 'canvas',
             width: this.width,
             height: this.height,
             scaleX: this.scale,
